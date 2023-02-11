@@ -1,4 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+<paste log output from Kubernetes-mediated prediction here>
 (.devops) voclabs:~/environment/project-ml-microservice-kubernetes (main) $ bash run_kubernetes.sh
 Error from server (AlreadyExists): pods "sklearn" already exists
 NAME      READY   STATUS    RESTARTS   AGE
